@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @moipascual
+- 👀 I’m interested in learning as many programming languages as I can.
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on projects aimed at beginners. 
+- 📫 How to reach me at mpascual.laguna@gmail.com
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I'm a musician.
